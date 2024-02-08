@@ -1,5 +1,5 @@
 import random
-num = random.randint(1, 2)
+num = random.randint(1, 100)
 user = 0
 user_count = 0
 while user != num:
